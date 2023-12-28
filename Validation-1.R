@@ -5,7 +5,7 @@ library(ggraph)
 library(tibble)
 library(stringr)
 library(ggplot2)
-
+# Note: This code is not ready to work for only one hotel.
 #For 2 Hotels
 hotelInfo <- tibble(
   hotelName = c("Hotel city The Residential", "Hotel B bla  bla bla"),
